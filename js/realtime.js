@@ -15,11 +15,11 @@ var subscribeTopic = "";
 var Realtime = function() {
 
 	// update your credentials here
-	var orgId = "4nlxtc"; // your org ID
-	var deviceType = "car"; // your device Type
-	var deviceId = "011023"; // Your device ID
+	var orgId = "8jxlnx"; // your org ID
+	var deviceType = "iotsample-devicetype"; // your device Type
+	var deviceId = "Device01"; // Your device ID
 
-	var deviceToken = "adfF?aTNExUbn&T9Gk"; // Your device Token
+	var deviceToken = "qDOy3wuO?q4v_QyI*A"; // Your device Token
 
 	var clientId = "d:" + orgId + ":" + deviceType + ":" +deviceId;
 
